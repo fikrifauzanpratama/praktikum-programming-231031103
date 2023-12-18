@@ -12,7 +12,7 @@
 * Praktikum 4 : List and Tuples
   `praktikum-d4.py`
 * Praktikum 5 : Perulangan
-  `praktikum-d5.py`
+  `praktikum d5.py`
 * Praktikum 6 : While True
   `praktikum-d6.py`
 * Praktikum 7 : Membuat Password
